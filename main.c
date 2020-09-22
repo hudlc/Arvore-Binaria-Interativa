@@ -55,14 +55,10 @@ int main()
         }
         else if (op == 5)
         {
-
             system("cls");
             imprimeCresc(arv1);
             printf("\n-------\n");
-
         }
-
-
     }
     return 0;
 }
